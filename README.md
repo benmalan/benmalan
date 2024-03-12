@@ -2,6 +2,8 @@
   
 <h4 align="left">Ready to contribute to innovative projects and collaborate with like-minded professionals to make a meaningful impact in the digital world.</h4>
 
+ 📫 How to reach me **bmalandrinos@gmail.com**
+
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
