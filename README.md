@@ -1,5 +1,4 @@
 <h2 align="center">Hi, I'm Ben Malandrinos</h1>
-<h4 align="left">Recent graduate of Le Wagon's full stack web development course, eagerly seeking my first opportunity in the tech industry to apply my newfound skills and passion for coding.</h4>
   
 <h4 align="left">Ready to contribute to innovative projects and collaborate with like-minded professionals to make a meaningful impact in the digital world.</h4>
 
