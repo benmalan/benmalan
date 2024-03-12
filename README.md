@@ -2,7 +2,7 @@
   
 <h4 align="left">Ready to contribute to innovative projects and collaborate with like-minded professionals to make a meaningful impact in the digital world.</h4>
 
- 📫 How to reach me **bmalandrinos@gmail.com**
+ 📫 How to reach me: **bmalandrinos@gmail.com**
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
